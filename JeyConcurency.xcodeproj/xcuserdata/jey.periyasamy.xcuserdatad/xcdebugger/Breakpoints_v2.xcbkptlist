@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "471A51A4-906F-48C7-BEC0-773DEAE93CDA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F330259-187A-40CE-8211-8C17D1FCB8BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JeyConcurency/TryCatchBootcamp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03F52639-6B48-4AA8-9CCE-1E7796EAFAD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JeyConcurency/AsyncAwait.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "03F52639-6B48-4AA8-9CCE-1E7796EAFAD8 - 187b3db7ba0639f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in JeyConcurency.AsyncAwait.body.getter : some"
+                  moduleName = "JeyConcurency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jey.periyasamy/Projects/JeyConcurency/JeyConcurency/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "03F52639-6B48-4AA8-9CCE-1E7796EAFAD8 - 187b3db7ba063f44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in JeyConcurency.AsyncAwait.body.getter : some"
+                  moduleName = "JeyConcurency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jey.periyasamy/Projects/JeyConcurency/JeyConcurency/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18BCE2C6-2421-449F-93C7-3D3FD14F22EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JeyConcurency/AsyncAwait.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "18BCE2C6-2421-449F-93C7-3D3FD14F22EF - 187b3db7ba0639f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in JeyConcurency.AsyncAwait.body.getter : some"
+                  moduleName = "JeyConcurency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jey.periyasamy/Projects/JeyConcurency/JeyConcurency/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "18BCE2C6-2421-449F-93C7-3D3FD14F22EF - 187b3db7ba063f44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in JeyConcurency.AsyncAwait.body.getter : some"
+                  moduleName = "JeyConcurency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jey.periyasamy/Projects/JeyConcurency/JeyConcurency/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "18BCE2C6-2421-449F-93C7-3D3FD14F22EF - de453cf15c17041a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in JeyConcurency.AsyncAwait.body.getter : some"
+                  moduleName = "JeyConcurency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jey.periyasamy/Projects/JeyConcurency/JeyConcurency/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "18BCE2C6-2421-449F-93C7-3D3FD14F22EF - eacf993dc0332318"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in JeyConcurency.AsyncAwait.body.getter : some"
+                  moduleName = "JeyConcurency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jey.periyasamy/Projects/JeyConcurency/JeyConcurency/AsyncAwait.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7AB6A90D-2CBB-4C63-A8E9-23FD2A63F313"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "JeyConcurency/AsyncThread.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
